@@ -40,6 +40,11 @@ main h3  {
   color: grey;
 }
 
+iframe {
+    border-radius:45px;
+    height: 200px;
+    width: 400px;
+  }
 /* ELEMENTI NEL MAIN - ARTICLE */
 
 /* TABELLE */
